@@ -1,0 +1,5 @@
+migrations/
+web_app_99.db
+
+#ignore credentials
+.env
